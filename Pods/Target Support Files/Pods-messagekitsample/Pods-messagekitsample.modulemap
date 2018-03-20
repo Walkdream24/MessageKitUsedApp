@@ -1,0 +1,6 @@
+framework module Pods_messagekitsample {
+  umbrella header "Pods-messagekitsample-umbrella.h"
+
+  export *
+  module * { export * }
+}
